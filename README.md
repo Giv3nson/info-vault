@@ -1,2 +1,2 @@
 # info-vault
-A collection of projects.
+A collection of HTML & CSS projects.
